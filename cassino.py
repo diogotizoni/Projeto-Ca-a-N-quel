@@ -1,4 +1,3 @@
-###trabalho feito por Diogo, Thiago e Mario
 from datetime import datetime
 import random
 import os
